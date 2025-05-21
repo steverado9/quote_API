@@ -1,0 +1,5 @@
+1)create your server
+2).env
+3)create config/db.js
+4)data/createQuotestable.js
+5)routes/contoller/model and error
